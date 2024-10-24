@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Meu nome é Felipe e estudo Ciência da Computação na UFES (Universidade Federal do Espírito Santo), gosto de vários assuntos da área, e estou estudando no momento Python e C.
 <!--
 **FeLiPeOLi7/FeLiPeOLi7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

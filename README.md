@@ -4,11 +4,12 @@ Estudante de **Ciência da Computação na UFES**, interessado em Engenharia de 
 
 Atualmente, faço parte do **LCAD (Laboratório de Computação de Alto Desempenho)**, onde tenho contato com pesquisa, computação de alto desempenho e projetos aplicados de tecnologia e robótica.
 
-Atualmente estudo e construo projetos usando **Python, C, JavaScript, React e Swift**, com foco em transformar fundamentos de computação em aplicações reais.
+Atualmente estudo e construo projetos usando **Python, C, JavaScript, Java e Swift**, com foco em transformar fundamentos de computação em aplicações reais.
 
 ## Projetos em destaque
 
-- [Studex](https://github.com/lewislf/studex) — Sistema completo que utiliza RAG para gerar conteúdos educativos como resumos, mapas mentais e flashcards.
+- [Studex](https://studex-dusky.vercel.app/) — Sistema completo que utiliza RAG para gerar conteúdos educativos como resumos, mapas mentais e flashcards.
+- [Pyramidle](https://felipeoli7.github.io/Pyramidle/) — Implementação de um jogo que utiliza *redes neurais* e conhecimentos em álgebra linear [GF(2)] para sua resolução
 - [FaceRecognitionApp](https://github.com/FeLiPeOLi7/FaceRecognitionApp) — Aplicação de reconhecimento facial com Flask, React, WebSockets, embeddings e preocupação com privacidade e LGPD.
 - [Dijkstra-TP1](https://github.com/FeLiPeOLi7/Dijkstra-TP1) — Implementações Lazy e Eager do algoritmo de Dijkstra, comparando Min-Heap e Fibonacci Heap.
 - [BTree-TP2](https://github.com/FeLiPeOLi7/BTree-TP2) — Implementação de Árvores B para indexação de dados em memória secundária.
